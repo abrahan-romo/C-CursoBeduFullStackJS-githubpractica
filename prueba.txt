@@ -47,3 +47,19 @@ git branch -d "nombre del branch"
 
 descargar cambios
 git pull
+
+
+fusionar cambios
+git merge "nombre del branch"
+
+comparar cambios
+git diff "nombre del branch" "target contra el cual comparo branch"
+
+estado 
+git status
+
+log
+git log 
+
+
+hice un nuevo branch
