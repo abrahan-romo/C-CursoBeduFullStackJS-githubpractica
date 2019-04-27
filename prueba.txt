@@ -1,3 +1,25 @@
 hola mundo
 hola mundo 2
 hola mundo 3
+
+
+
+
+git config --global user.email "emailQ.gmail.com"
+git config --global user.name "username"
+
+crear repositorio
+git init
+
+Agregar archivos al index
+git add "nombre del archivo"
+git add .
+
+Agregar comentario
+git commit -m "Mi comentario"
+
+agregar remoto
+git remote add origin "url del sevidor"
+
+enviar commits al servidor
+git push -u origin "Nombre del branch"
