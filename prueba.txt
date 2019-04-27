@@ -34,3 +34,16 @@ git clone "path de la carpeta"
 
 y para un remoto
 git clone "url del servidor"
+
+
+crear branch
+git checout -b "nombre del branch"
+
+cambiar de branch
+git checkout "nombre del branch"
+
+eliminar branch
+git branch -d "nombre del branch"
+
+descargar cambios
+git pull
